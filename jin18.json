@@ -224,6 +224,11 @@
       "name": "TV-丫丫点播",
       "detail": "https://cj.yayazy.net",
       "is_adult": false
+    },
+      "zy.sh0o.cn": {
+      "name": "🎬山海资源",
+      "api": "https://zy.sh0o.cn/api.php/provide/vod",
+      "detail": "https://zy.sh0o.cn"
     }
   }
 }
