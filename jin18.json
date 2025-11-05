@@ -182,7 +182,7 @@
       "detail": "https://www.hongniuzy.com"
     },
     "xsd_sdzyapi": {
-      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "api": "https://suoniapi.com/api.php/provide/vod",
       "name": "索尼-闪电资源",
       "is_adult": false
     },
@@ -207,7 +207,7 @@
       "detail": "https://api.apibdzy.com",
       "is_adult": false
     },
-        "niuniuzy": {
+      "niuniuzy": {
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
       "name": "TV-牛牛点播",
       "detail": "https://api.niuniuzy.me",
@@ -225,10 +225,30 @@
       "detail": "https://cj.yayazy.net",
       "is_adult": false
     },
-      "zy.sh0o.cn": {
+      "sh0o": {
       "name": "🎬山海资源",
       "api": "https://zy.sh0o.cn/api.php/provide/vod",
       "detail": "https://zy.sh0o.cn"
+    },
+      "jianan": {
+      "name": "🎬建安资源",
+      "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
+      "detail": "https://t.me/+enmdASrekjA4OTg1"
+    },
+      "huyaapi": {
+      "name": "🎬虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+      "detail": "https://www.huyaapi.com"
+    },
+      "jyzyapi": {
+      "name": "🎬金鹰资源",
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "detail": "https://jyzyapi.com"
+    },
+      "sdzyapi": {
+      "name": "🎬闪电资源",
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "detail": "https://xsd.sdzyapi.com"
     }
   }
 }
